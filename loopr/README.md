@@ -64,10 +64,10 @@ sdk install sbt
 
 ### 2. Clone the Repository 
 
-Now, you need to clone the loopr repository, which contains the StockTrader Load Testing Tool.
+Now, you need to clone the `test-tools` repository, which contains the StockTrader Load Testing Tool.
 
 ```shell
-git clone https://github.com/rtclauss/loopr.git
+git clone https://github.com/IBMStockTrader/test-tools.git
 ```
 
 ### 3. Navigate to the Loopr Directory 
@@ -75,7 +75,7 @@ git clone https://github.com/rtclauss/loopr.git
 Change your working directory to the loopr repository
 
 ```shell
-cd loopr
+cd test-tools/loopr
 ```
 
 ### 4. Run the tool
